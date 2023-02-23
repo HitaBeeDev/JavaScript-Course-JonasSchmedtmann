@@ -91,6 +91,22 @@
   - Resetting the Game	
   
   #### JavaScript in the Browser: DOM and Events Fundamentals 		
-  - Section Intro		
-
-
+  - Section Intro			
+  - Section Roadmap			
+  - PROJECT #1: Guess My Number!			
+  - What's the DOM and DOM Manipulation			
+  - Selecting and Manipulating Elements			
+  - Handling Click Events			
+  - Implementing the Game Logic			
+  - Manipulating CSS Styles			
+  - Coding Challenge #1			
+  - Implementing Highscores			
+  - Refactoring Our Code: The DRY Principle			
+  - PROJECT #2: Modal Window			
+  - Working With Classes			
+  - Handling an "Esc" Keypress Event			
+  - PROJECT#3: Pig Game			
+  - Rolling the Dice			
+  - Switching the Active Player			
+  - Holding Current Score			
+  - Resetting the Game			
