@@ -1,20 +1,13 @@
 ## 🚀 Coding Challenge 1:
 
 ```ruby
-Back to the two gymnastics teams, the Dolphins and the Koalas! There is a new gymnastics discipline, which works differently.
-Each team competes 3 times, and then the average of the 3 scores is calculated (so one average score per team).
-A team ONLY wins if it has at least DOUBLE the average score of the other team. Otherwise, no team wins!
+Mark and John are trying to compare their BMI (Body Mass Index), which is calculated using the formula: BMI = mass / height ** 2 = mass / (height * height). (mass in kg and height in meter).
 
-1. Create an arrow function 'calcAverage' to calculate the average of 3 scores
-2. Use the function to calculate the average for both teams
-3. Create a function 'checkWinner' that takes the average score of each team as parameters ('avgDolhins' and 'avgKoalas'), and then logs the winner to the console, together with the victory points, according to the rule above. Example: "Koalas win (30 vs. 13)".
-4. Use the 'checkWinner' function to determine the winner for both DATA 1 and DATA 2.
-5. Ignore draws this time.
+1. Store Mark's and John's mass and height in variables
+2. Calculate both their BMIs using the formula (you can even implement both versions)
+3. Create a boolean variable 'markHigherBMI' containing information about whether Mark has a higher BMI than John.
 
-TEST DATA 1: Dolphins score 44, 23 and 71. Koalas score 65, 54 and 49
-
-HINT: To calculate average of 3 values, add them all together and divide by 3
-HINT: To check if number A is at least double number B, check for A >= 2 * B. Apply this to the team's average scores 😉
+TEST DATA : Marks weights 78 kg and is 1.69 m tall. John weights 92 kg and is 1.95 m tall.
 
 GOOD LUCK 😀
 ```
@@ -23,7 +16,7 @@ GOOD LUCK 😀
 ## 💡 Solution:
 
 ```ruby
-// --------- TEST DATA 1 ------------
+// --------- TEST DATA ------------
 const markWeights = 78;
 const markHeight = 1.69;
 
