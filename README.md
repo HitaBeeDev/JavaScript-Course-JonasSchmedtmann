@@ -55,19 +55,7 @@
   - Looping Arrays, Breaking and Continuing			
   - Looping Backwards and Loops in Loops			
   - The while Loop			
-  - Coding Challenge #4			
-  
-   #### Developer Skills & Editor Setup 		
-  - Section Intro	   			
-  - Section Roadmap			
-  - Setting up Prettier and VS Code			
-  - Installing Node.js and Setting Up a Dev Environment			
-  - Learning How to Code			
-  - How to Think Like a Developer: Become a Problem Solver!			
-  - Using Google, StackOverflow and MDN			
-  - Debugging (Fixing Errors)			
-  - Debugging with the Console and Breakpoints			
-  - Coding Challenge #1		
+  - Coding Challenge #4				
   
   #### JavaScript in the Browser: DOM and Events Fundamentals 		
   - Section Intro		
