@@ -77,3 +77,30 @@
   - Switching the Active Player			
   - Holding Current Score			
   - Resetting the Game		
+
+ #### Data Structures, Modern Operators and Strings  
+  - Section Intro			
+  - Section Roadmap			
+  - Destructuring Arrays			
+  - Destructuring Objects			
+  - The Spread Operator (...)			
+  - Rest Pattern and Parameters			
+  - Short Circuiting (&& and ||)			
+  - The Nullish Coalescing Operator (??)			
+  - Logical Assignment Operators			
+  - Coding Challenge #1			
+  - Looping Arrays: The for-of Loop			
+  - Enhanced Object Literals			
+  - Optional Chaining (?.)			
+  - Looping Objects: Object Keys, Values, and Entries			
+  - Coding Challenge #2			
+  - Sets			
+  - Maps: Fundamentals			
+  - Maps: Iteration			
+  - Summary: Which Data Structure to Use?			
+  - Coding Challenge #3			
+  - Working With Strings - Part 1			
+  - Working With Strings - Part 2			
+  - Working With Strings - Part 3			
+  - Coding Challenge #4			
+  - String Methods Practice			
