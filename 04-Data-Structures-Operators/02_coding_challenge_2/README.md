@@ -1,6 +1,5 @@
 ## Coding Challenge #2
 ```ruby
-Let's continue with our football betting app! Keep using the 'game' variable from before.
 
 Your tasks: 
 
