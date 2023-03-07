@@ -23,7 +23,7 @@ Hints:
 
 ```
     
-## 💡 Coding Challenge #4:
+## 💡 Solution:
 ```ruby
 document.body.append(document.createElement('textarea'));
 document.body.append(document.createElement('button'));
