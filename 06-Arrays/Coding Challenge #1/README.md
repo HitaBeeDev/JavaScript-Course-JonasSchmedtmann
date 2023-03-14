@@ -16,6 +16,8 @@ Hints: Use tools from all lectures in this section so far 😉
 GOOD LUCK 😀
 ```
 
+## 💡 Solution:
+
 ```ruby
 const checkDogs = function (dogsJulia, dogsKate) {
   const dogsJuliaCorrected = dogsJulia.slice();
