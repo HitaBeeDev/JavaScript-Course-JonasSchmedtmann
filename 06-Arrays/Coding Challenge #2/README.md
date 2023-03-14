@@ -1,4 +1,4 @@
-## 🚀 Coding Challenge #1:
+## 🚀 Coding Challenge #2:
 
 
 ```ruby
